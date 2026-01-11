@@ -11,6 +11,12 @@ This project explores the Sberbank Russian Housing Market dataset to predict rea
 ## 🚀 Project Overview
 The objective of this project is to develop a robust machine learning pipeline to predict residential property prices in Moscow. The dataset includes a wide array of features, from property-specific details (e.g., square footage, floor, building year) to neighbourhood characteristics and broader macroeconomic indicators.
 
+## Files
+* CISC251_Deliverable3_Complete.ipynb - Jupyter notebook of complete ML pipeline
+* CISC251_Deliverable3_Complete.pdf - PDF report of Jupyter notebook
+* data.zip - Zip folder of all kaggle csv data 
+* requirements.txt - List of used modules and libraries for entire project 
+
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn
