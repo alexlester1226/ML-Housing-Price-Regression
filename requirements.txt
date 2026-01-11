@@ -1,0 +1,13 @@
+# Data Manipulation and Analysis
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Utility
+kaggle
